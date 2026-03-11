@@ -3,13 +3,13 @@
 
 A course project for developing a PHP-based website using the WAMP server.
 
-## ⚙️ Prerequisites
+## Requirements
 
 - Windows operating system
 - WAMP Server
 - Modern web browser
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 1. **Install WAMP Server**
    - Download and install WAMP from the official website
